@@ -1,0 +1,76 @@
+﻿  GameOfLife.cpp
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(118,62): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(118,48): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(124,83): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(124,76): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(126,78): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(126,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(131,78): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(131,71): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(133,79): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Moldovan\source\repos\GameOfLife\GameOfLife\GameOfLife.cpp(133,72): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  GameOfLife.vcxproj -> C:\Users\Moldovan\source\repos\GameOfLife\Debug\GameOfLife.exe
